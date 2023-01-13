@@ -6,4 +6,4 @@
 
 **Thoughts:** I need to work on CSS more.
 
-**Link to work:** [Read My Pen]([https://github.com/nickramen/readmypen])
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
