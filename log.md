@@ -31,3 +31,11 @@
 **Thoughts:** I wish I could tell JavaScript they have my permission to access my local filesystem.
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+### Day 5: January 16, 2023
+
+**Today's Progress**: Today I installed xampp and started working properly with the php files. 
+
+**Thoughts:** Last time I worked with php was back in 2018, so the process is getting a little bit slow.
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
