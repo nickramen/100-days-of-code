@@ -39,3 +39,11 @@
 **Thoughts:** Last time I worked with php was back in 2018, so the process is getting a little bit slow.
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+### Day 6: January 17, 2023
+
+**Today's Progress**: I was able to save the images into a local folder at the same time I am saving each file with a customized name. The page was reloading whenever I would upload the picture(submit the form). So it is not reloading anymore.
+
+**Thoughts:** Excited about the progress!!
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
