@@ -47,3 +47,11 @@
 **Thoughts:** Excited about the progress!!
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+### Day 7: January 18, 2023
+
+**Today's Progress**: Worked on the db connection (still on it).
+
+**Thoughts:** PHP is still a bit difficult to me
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
