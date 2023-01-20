@@ -55,3 +55,11 @@
 **Thoughts:** PHP is still a bit difficult to me
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+### Day 8: January 18, 2023
+
+**Today's Progress**: I found out that the drivers to connect php to sql server for the version i have are not going to be available until the end of January so I just decided to make a python connection and it worked pretty well! Learning about color detection with python.
+
+**Thoughts:** Why didn't I made this before, it took me so long :C
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
