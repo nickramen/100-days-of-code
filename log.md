@@ -56,10 +56,18 @@
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
 
-### Day 8: January 18, 2023
+### Day 8: January 19, 2023
 
 **Today's Progress**: I found out that the drivers to connect php to sql server for the version i have are not going to be available until the end of January so I just decided to make a python connection and it worked pretty well! Learning about color detection with python.
 
 **Thoughts:** Why didn't I made this before, it took me so long :C
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+### Day 9: January 21, 2023
+
+**Today's Progress**: I learned how to pass variables from JS to Python.
+
+**Thoughts:** We can do it!!
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
