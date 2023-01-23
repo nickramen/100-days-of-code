@@ -71,3 +71,11 @@
 **Thoughts:** We can do it!!
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+### Day 10: January 22, 2023
+
+**Today's Progress**: Learned about setting and getting items from the browser's localStorage. Was able to get the value saved to the localstorage everytime a new pic is uploaded but it is still not updating properly in the input i want.
+
+**Thoughts:** Happy I was able to progress a bit!
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
