@@ -79,3 +79,11 @@
 **Thoughts:** Happy I was able to progress a bit!
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+### Day 11: January 22, 2023
+
+**Today's Progress**: Added some files that I used for testing other saving methods.
+
+**Thoughts:** No comments
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
