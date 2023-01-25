@@ -80,10 +80,18 @@
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
 
-### Day 11: January 22, 2023
+### Day 11: January 23, 2023
 
 **Today's Progress**: Added some files that I used for testing other saving methods.
 
 **Thoughts:** No comments
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+### Day 12: January 24, 2023
+
+**Today's Progress**: AStarted an ASP.NET Core project to use the MVC arquitecture. Improved the database structure (including password encryptation, adding schemas, etc). Created a login & signup page and put the project on a folder.
+
+**Thoughts:** Happy to have made some progress today!
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
