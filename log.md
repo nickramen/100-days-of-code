@@ -95,3 +95,14 @@
 **Thoughts:** Happy to have made some progress today!
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+### Day 13: January 25, 2023
+
+**Today's Progress**: Learned about some of the differences between ASP.NET Core 3.1, which is what I have worked with before and ASP.NET Core 6 that I tried today! Worked on the MVC structure and did some Reverse Engineering. Working on the Login now!
+
+**Thoughts:** Time to get the whole thing working!
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+
+
