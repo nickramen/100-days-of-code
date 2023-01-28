@@ -104,5 +104,11 @@
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
 
+### Day 14: January 26, 2023
 
+**Today's Progress**: Connection done and Login is successful. Added some code to start using sessions along with the login.
+
+**Thoughts:** I think I am going on right direction so far!
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
 
