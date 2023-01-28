@@ -112,3 +112,10 @@
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
 
+### Day 15: January 27, 2023
+
+**Today's Progress**: Learned about Python Basics and IFormFile in c#
+
+**Thoughts:** Started to learn python from the very beginning too!
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
