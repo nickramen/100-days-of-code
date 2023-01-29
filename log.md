@@ -119,3 +119,13 @@
 **Thoughts:** Started to learn python from the very beginning too!
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+### Day 16: January 28, 2023
+
+**Today's Progress**: Python basics: 👉Variables 👉Simple data 👉Compound data
+
+**Thoughts:** Python is very easy so far!
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+
