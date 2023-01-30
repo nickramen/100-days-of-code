@@ -128,4 +128,11 @@
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
 
+### Day 17: January 29, 2023
+
+**Today's Progress**: Python basics: 👉Conditionals 👉Logical Operators 👉Relational Operators 👉Aritmethical Operators
+
+**Thoughts:** Python is very easy so far!
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
 
