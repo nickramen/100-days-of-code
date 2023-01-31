@@ -136,3 +136,10 @@
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
 
+### Day 18: January 30, 2023
+
+**Today's Progress**: Changed viewbags for actual session in the layout, and kept researching about how to use IFormFile in my code.
+
+**Thoughts:** Still left a long way to go.
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
