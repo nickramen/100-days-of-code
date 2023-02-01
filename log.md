@@ -143,3 +143,11 @@
 **Thoughts:** Still left a long way to go.
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+### Day 19: January 31, 2023
+
+**Today's Progress**: Multiple Changes: Added method to picture repository, added method to picture controller, added some lines to home index, added and udp to the db and performed reverse ingeneering, made changes to the picture viewmodel
+
+**Thoughts:** (controller method is commented bc im still working on it)
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
