@@ -151,3 +151,14 @@
 **Thoughts:** (controller method is commented bc im still working on it)
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+### Day 20: February 01, 2023
+
+**Today's Progress**: Made changes to the controller, viewmodel, and index. Method still commented because I still have to find out why is the model comming empty.
+
+**Thoughts:** (controller method is commented bc im still working on it)
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+
+
+
