@@ -160,5 +160,11 @@
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
 
+### Day 21: February 03, 2023
 
+**Today's Progress**: Learned about strings in python.
+
+**Thoughts:** So far Python still looks very easy to learn.
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
 
