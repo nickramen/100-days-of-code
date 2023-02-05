@@ -168,3 +168,10 @@
 
 **Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
 
+### Day 22: February 04, 2023
+
+**Today's Progress**: Learned about list methods, dictionary methods and inputs in python.
+
+**Thoughts:** So far Python still looks very easy to learn.
+
+**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
