@@ -118,7 +118,7 @@
 
 **Thoughts:** Started to learn python from the very beginning too!
 
-**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+**Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
 
 ### Day 16: January 28, 2023
 
@@ -126,7 +126,7 @@
 
 **Thoughts:** Python is very easy so far!
 
-**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+**Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
 
 ### Day 17: January 29, 2023
 
@@ -134,7 +134,7 @@
 
 **Thoughts:** Python is very easy so far!
 
-**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+**Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
 
 ### Day 18: January 30, 2023
 
@@ -166,7 +166,7 @@
 
 **Thoughts:** So far Python still looks very easy to learn.
 
-**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+**Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
 
 ### Day 22: February 04, 2023
 
@@ -174,4 +174,12 @@
 
 **Thoughts:** So far Python still looks very easy to learn.
 
-**Link to work:** [Read My Pen](https://github.com/nickramen/readmypen)
+**Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
+
+### Day 23: February 06, 2023
+
+**Today's Progress**: Practiced the python concepts I have previously learned with some exercises.
+
+**Thoughts:** I am enjoying the process.
+
+**Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
