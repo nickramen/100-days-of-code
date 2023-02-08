@@ -183,3 +183,11 @@
 **Thoughts:** I am enjoying the process.
 
 **Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
+
+### Day 24: February 07, 2023
+
+**Today's Progress**: Learned about: Tuples, Sets, Unpacking in python and more about Dictionaries.
+
+**Thoughts:** I am enjoying the process.
+
+**Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
