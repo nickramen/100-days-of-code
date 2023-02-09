@@ -191,3 +191,11 @@
 **Thoughts:** I am enjoying the process.
 
 **Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
+
+### Day 25: February 08, 2023
+
+**Today's Progress**: Learned about: Loops and Functions
+
+**Thoughts:** I am enjoying the process.
+
+**Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
