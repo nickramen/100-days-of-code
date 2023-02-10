@@ -199,3 +199,11 @@
 **Thoughts:** I am enjoying the process.
 
 **Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
+
+### Day 26: February 09, 2023
+
+**Today's Progress**: Learned about: Lambda functions and * operator. Did some practice exercises.
+
+**Thoughts:** I am enjoying the process.
+
+**Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
