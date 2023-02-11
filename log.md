@@ -207,3 +207,11 @@
 **Thoughts:** I am enjoying the process.
 
 **Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
+
+### Day 27: February 10, 2023
+
+**Today's Progress**: Practiced with more python exercises
+
+**Thoughts:** I am enjoying the process.
+
+**Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
