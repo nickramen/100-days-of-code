@@ -215,3 +215,19 @@
 **Thoughts:** I am enjoying the process.
 
 **Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
+
+### Day 28: February 11, 2023
+
+**Today's Progress**: Learned about complex numbers in python
+
+**Thoughts:** I think this data type is one to use on specific scenarios.
+
+**Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
+
+### Day 29: February 10, 2023
+
+**Today's Progress**: Learned about Modules and Module Routing
+
+**Thoughts:** Very easy! Would like to build libraries someday
+
+**Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
