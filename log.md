@@ -246,4 +246,4 @@
 
 **Thoughts:** Need to work on the button.
 
-**Link to work:** [Python Basics](https://github.com/nickramen/todo-app)
+**Link to work:** [To-do List](https://github.com/nickramen/todo-app)
