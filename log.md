@@ -224,10 +224,26 @@
 
 **Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
 
-### Day 29: February 10, 2023
+### Day 29: February 12, 2023
 
 **Today's Progress**: Learned about Modules and Module Routing
 
 **Thoughts:** Very easy! Would like to build libraries someday
 
 **Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
+
+### Day 30: February 13, 2023
+
+**Today's Progress**: Learned about Packaging in Python and also worked with txt and csv files.
+
+**Thoughts:** Very easy! Would like to build libraries someday
+
+**Link to work:** [Python Basics](https://github.com/nickramen/python-basics)
+
+### Day 31: February 14, 2023
+
+**Today's Progress**: Worked on the design of a to-do list app and worked on a sqlite3 db connection. Still using Python mainly.
+
+**Thoughts:** Need to work on the button.
+
+**Link to work:** [Python Basics](https://github.com/nickramen/todo-app)
