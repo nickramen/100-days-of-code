@@ -247,3 +247,11 @@
 **Thoughts:** Need to work on the button.
 
 **Link to work:** [To-do List](https://github.com/nickramen/todo-app)
+
+### Day 32: February 15, 2023
+
+**Today's Progress**: 🔥Was able to fetch the data directly from the database, so there is no hardcoded code anymore! 🔥Tasks are listed according to the day of the week. 🔥Added a little more details to the design.
+
+**Thoughts:** I'm very happy about today's progress!
+
+**Link to work:** [To-do List](https://github.com/nickramen/todo-app)
