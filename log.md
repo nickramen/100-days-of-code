@@ -255,3 +255,11 @@
 **Thoughts:** I'm very happy about today's progress!
 
 **Link to work:** [To-do List](https://github.com/nickramen/todo-app)
+
+### Day 33: February 15, 2023
+
+**Today's Progress**: Adding new task with button. Display tasks that are done and not done yet. Set task as done or undone by clicking on the checkbox. Delete task function added.
+
+**Thoughts:** I'm very happy about today's progress!
+
+**Link to work:** [To-do List](https://github.com/nickramen/todo-app)
